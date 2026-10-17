@@ -4,7 +4,7 @@ title: Datenschutz / Privacy – Cozy Cat Café
 
 # Datenschutzerklärung – Cozy Cat Café
 
-*Stand: 1. Oktober 2026* · [English version below](#en)
+*Stand: 17. Oktober 2026* · [English version below](#en)
 
 ## 1. Verantwortlicher
 
@@ -51,9 +51,13 @@ EU-Standardvertragsklauseln (Art. 46 Abs. 2 lit. c DSGVO).
 
 ## 4. Einwilligung und Altersabfrage
 
-Beim ersten Start fragt die App neutral nach deinem Alter. Bist du unter dem
-Einwilligungsalter, erhältst du **ausschließlich nicht-personalisierte
-Werbung** und es werden **keine Analysedaten** erhoben.
+Beim ersten Start fragt die App neutral nach deinem Geburtsjahr. Gespeichert
+wird nur das Ergebnis, nicht das Jahr. Bist du unter dem Einwilligungsalter,
+erhältst du **ausschließlich nicht-personalisierte Werbung** und es werden
+**keine Analysedaten** erhoben. Bist du jünger als 13 Jahre, kennzeichnet die
+App alle Werbeanfragen zusätzlich als **kindgerichtet** (US Children's Online
+Privacy Protection Act, COPPA); Google zeigt dann nur dafür zugelassene,
+nicht-personalisierte Anzeigen.
 
 Andernfalls holt die App vor der ersten Werbung über die Google User Messaging
 Platform deine Einwilligung ein (EWR, Vereinigtes Königreich, Schweiz).
@@ -87,7 +91,24 @@ unwiderruflich verloren; bereits getätigte Käufe lassen sich im Shop über
 „Käufe wiederherstellen" zurückholen. Die Werbe-ID kannst du in den
 Android-Einstellungen zurücksetzen oder löschen.
 
-## 8. Änderungen
+## 8. Hinweise für Nutzer in den USA
+
+Einige US-Bundesstaaten (u. a. Kalifornien nach CCPA/CPRA) geben dir besondere
+Rechte. Wir verkaufen keine personenbezogenen Daten gegen Geld. Die in
+Abschnitt 3 genannte Werbung über Google AdMob kann nach diesen Gesetzen aber
+als „Weitergabe" für kontextübergreifende Werbung gelten. Du kannst dem jederzeit
+unter **Einstellungen → Datenschutz-Optionen** widersprechen („Meine Daten nicht
+verkaufen oder weitergeben"); danach erhältst du nur noch eingeschränkt
+verarbeitete Werbung. Außerdem hast du das Recht auf Auskunft, Löschung und
+Berichtigung (Kontakt siehe Abschnitt 1) und wirst für die Ausübung deiner Rechte
+nicht benachteiligt. Kategorien der betroffenen Daten: Geräte-Kennungen, ungefährer
+Standort aus der IP-Adresse, App-Interaktionen (siehe Abschnitt 3).
+
+**Kinder unter 13:** Wir erheben wissentlich keine personenbezogenen Daten von
+Kindern unter 13 Jahren für Werbe- oder Analysezwecke (siehe Abschnitt 4). Eltern
+können sich jederzeit über die Kontaktdaten in Abschnitt 1 an uns wenden.
+
+## 9. Änderungen
 
 Wir passen diese Erklärung an, wenn sich die App oder die Rechtslage ändert.
 Es gilt die jeweils hier veröffentlichte Fassung.
@@ -96,7 +117,7 @@ Es gilt die jeweils hier veröffentlichte Fassung.
 
 # Privacy Policy – Cozy Cat Café {#en}
 
-*Last updated: 1 October 2026*
+*Last updated: 17 October 2026*
 
 > English version of the policy above. In case of doubt, the German version
 > applies.
@@ -144,9 +165,12 @@ RevenueCat rely on the EU Standard Contractual Clauses (Art. 46(2)(c) GDPR).
 
 ## 4. Consent and age check
 
-On first launch the app asks for your age in a neutral way. If you are below
-the age of digital consent, you only receive **non-personalised ads** and **no
-analytics data** is collected.
+On first launch the app asks for your year of birth in a neutral way. Only the
+result is stored, not the year. If you are below the age of digital consent,
+you only receive **non-personalised ads** and **no analytics data** is
+collected. If you are under 13, the app additionally tags all ad requests as
+**child-directed** (US Children's Online Privacy Protection Act, COPPA); Google
+then only serves eligible, non-personalised ads.
 
 Otherwise the app asks for your consent via the Google User Messaging Platform
 before the first ad (EEA, UK, Switzerland). Analytics data is only collected if
@@ -178,7 +202,24 @@ Café → Storage → Clear data**. This permanently deletes your progress;
 purchases can be restored in the shop via "Restore purchases". You can reset or
 delete your advertising ID in the Android settings.
 
-## 8. Changes
+## 8. Notice for users in the United States
+
+Some US states (including California under the CCPA/CPRA) give you specific
+rights. We do not sell personal information for money. However, advertising via
+Google AdMob (section 3) may count as "sharing" for cross-context behavioural
+advertising under these laws. You can opt out at any time under **Settings →
+Privacy options** ("Do not sell or share my personal information"); you will
+then only receive ads with restricted data processing. You also have the right
+to access, delete and correct your data (contact in section 1) and will not be
+discriminated against for exercising your rights. Categories of data involved:
+device identifiers, approximate location derived from the IP address, app
+interactions (see section 3).
+
+**Children under 13:** We do not knowingly collect personal information from
+children under 13 for advertising or analytics (see section 4). Parents can
+contact us at any time using the details in section 1.
+
+## 9. Changes
 
 We update this policy when the app or the law changes. The version published
 here applies.
